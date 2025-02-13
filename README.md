@@ -1,20 +1,20 @@
-About:
+Overview
 
-The Cybersecurity Threat Detection System is an AI/ML-based tool designed to detect potential security threats by analyzing file attributes and behavior. It includes feature extraction, machine learning model training, and real-time threat assessment to classify files as safe or malicious.
+The Cybersecurity Threat Detection System is an AI/ML-based tool designed to analyze file attributes and behavior to detect potential security threats. It leverages feature extraction, machine learning model training, and real-time threat assessment to classify files as safe or malicious.
 
-Features:
+Features
 
-🛡 Threat Classification – AI-driven detection of safe and malicious files.
+🛡 Threat Classification – Identifies malicious files using AI-driven analysis.
 
-🔍 Feature Extraction – Analyzes file attributes and behavior patterns.
+🔍 Feature Extraction – Extracts key attributes from files for analysis.
 
-📊 Machine Learning Models – Uses trained models for real-time assessment.
+📊 Machine Learning Models – Uses trained ML models to assess threats.
 
-🚀 Real-Time Detection – Provides immediate threat classification results.
+🚀 Real-Time Detection – Provides instant classification results.
 
-🛠 Customizable Models – Supports various ML algorithms.
+🛠 Customizable Algorithms – Supports multiple machine learning techniques.
 
-Technologies Used:
+Technologies Used
 
 Programming Language: Python
 
@@ -22,40 +22,25 @@ Machine Learning: Scikit-Learn, TensorFlow
 
 Feature Extraction: Pandas, NumPy
 
-Cybersecurity Libraries: YARA, PEfile
+Cybersecurity Tools: YARA, PEfile
 
 Visualization: Matplotlib, Seaborn
 
-Installation:
+Installation
+Prerequisites
 
-Prerequisites->
-
-Ensure you have the following installed on your system:
+Ensure you have the following installed:
 
 Python 3.8+
 
-Scikit-Learn
+Required Python libraries (see requirements.txt)
 
-TensorFlow
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-YARA
-
-PEfile
-
-Setup:
+Setup
 
 # Clone the repository
 git clone https://github.com/your-username/Cybersecurity-Threat-Detection.git
 
-# Navigate to the project folder
+# Navigate to the project directory
 cd Cybersecurity-Threat-Detection
 
 # Install dependencies
@@ -64,16 +49,20 @@ pip install -r requirements.txt
 # Run the system
 python main.py
 
-Usage:
-1.Launch the System
+Usage
+
+1.Start the System
 python main.py
 
 2.Upload or specify a file for analysis.
 
-3.The system extracts features and applies ML models to classify the file.
+3.The system extracts features and applies ML models for classification.
 
-4.View the threat classification results.
+4.View the classification results and threat assessment.
 
-Contributors:
+Contributors
 
 Bhavesh Mishra (Lead Developer)
+
+
+Required Python libraries (see requirements.txt)
