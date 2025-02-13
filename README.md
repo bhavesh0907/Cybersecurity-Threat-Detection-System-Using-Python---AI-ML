@@ -60,9 +60,3 @@ python main.py
 
 4.View the classification results and threat assessment.
 
-Contributors
-
-Bhavesh Mishra (Lead Developer)
-
-
-Required Python libraries (see requirements.txt)
