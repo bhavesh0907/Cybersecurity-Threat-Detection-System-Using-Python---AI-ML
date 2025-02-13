@@ -1,8 +1,8 @@
-About
+About:
 
 The Cybersecurity Threat Detection System is an AI/ML-based tool designed to detect potential security threats by analyzing file attributes and behavior. It includes feature extraction, machine learning model training, and real-time threat assessment to classify files as safe or malicious.
 
-Features
+Features:
 
 🛡 Threat Classification – AI-driven detection of safe and malicious files.
 
@@ -14,7 +14,7 @@ Features
 
 🛠 Customizable Models – Supports various ML algorithms.
 
-Technologies Used
+Technologies Used:
 
 Programming Language: Python
 
@@ -26,9 +26,9 @@ Cybersecurity Libraries: YARA, PEfile
 
 Visualization: Matplotlib, Seaborn
 
-Installation
+Installation:
 
-Prerequisites
+Prerequisites->
 
 Ensure you have the following installed on your system:
 
@@ -50,7 +50,7 @@ YARA
 
 PEfile
 
-Setup
+Setup:
 
 # Clone the repository
 git clone https://github.com/your-username/Cybersecurity-Threat-Detection.git
@@ -64,16 +64,16 @@ pip install -r requirements.txt
 # Run the system
 python main.py
 
-Usage
-Launch the System
+Usage:
+1.Launch the System
 python main.py
 
-Upload or specify a file for analysis.
+2.Upload or specify a file for analysis.
 
-The system extracts features and applies ML models to classify the file.
+3.The system extracts features and applies ML models to classify the file.
 
-View the threat classification results.
+4.View the threat classification results.
 
-Contributors
+Contributors:
 
 Bhavesh Mishra (Lead Developer)
