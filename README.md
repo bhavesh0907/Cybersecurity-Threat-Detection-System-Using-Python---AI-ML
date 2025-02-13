@@ -32,31 +32,3 @@ Prerequisites
 Ensure you have the following installed:
 
 Python 3.8+
-
-Required Python libraries (see requirements.txt)
-
-Setup
-
-1.Clone the repository
-git clone https://github.com/your-username/Cybersecurity-Threat-Detection.git
-
-2.Navigate to the project directory
-cd Cybersecurity-Threat-Detection
-
-3.Install dependencies
-pip install -r requirements.txt
-
-4.Run the system
-python main.py
-
-Usage
-
-1.Start the System
-python main.py
-
-2.Upload or specify a file for analysis.
-
-3.The system extracts features and applies ML models for classification.
-
-4.View the classification results and threat assessment.
-
