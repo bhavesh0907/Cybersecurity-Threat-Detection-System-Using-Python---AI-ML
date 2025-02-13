@@ -37,16 +37,16 @@ Required Python libraries (see requirements.txt)
 
 Setup
 
-# Clone the repository
+1.Clone the repository
 git clone https://github.com/your-username/Cybersecurity-Threat-Detection.git
 
-# Navigate to the project directory
+2.Navigate to the project directory
 cd Cybersecurity-Threat-Detection
 
-# Install dependencies
+3.Install dependencies
 pip install -r requirements.txt
 
-# Run the system
+4.Run the system
 python main.py
 
 Usage
